@@ -1,3 +1,5 @@
+Ссылка на jupyter-notebook:
+https://colab.research.google.com/drive/1XYFok7jEvlyCcky-F111yZ5P0KFnWXjQ?usp=sharing
 # Цена дома в Мельбурне
 Проект прогнозирования цены на недвижимость в Мельбурне
 ### Контекст
